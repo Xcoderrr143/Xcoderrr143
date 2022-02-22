@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Xcoderrr143
-- 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ... coding
+- 👋 Hi, I’m Sitesh
+- 👀 I’m interested in ...web devloping 
+- 🌱 I’m currently learning ... everthing relate to coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... don't need
+- 📫 How to reach me ... 
 
 <!---
 Xcoderrr143/Xcoderrr143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
